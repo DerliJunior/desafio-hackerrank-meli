@@ -1,12 +1,12 @@
 // Código refatorado após o desafio, validando o maior número válido
 
-let valorDigitado = 7;
+const valorDigitado = 7;
 
-let tamanhoMaximo = 4;
+const tamanhoMaximo = 4;
 
-let totalValido = 21;
+const totalValido = 21;
 
-let numeroValido = [];
+const numeroValido = [];
 
 function validaMaiorNumeroValido(input, valorMaximo) {
   let valorMaximoEmArray = [];
